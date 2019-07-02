@@ -454,28 +454,26 @@ layout: default
 			<div class="row">
 
 				{% for game in site.games limit:3 %}
-					{% if game.path contains 'game' %}
-						<div class="col-sm-4">
-							<a href="{{site.baseurl}}{{post.url}}" class="blogList wow fadeInUp">
-								<div class="blogList-img">
-									{% if game.banner_image %}
-										<img src="{{ "assets/images/" | append: game.banner_preview | prepend: site.baseurl }}" alt="Blog Desc">
-									{% endif %}
-									{% if game.category %}
-									<span>{{game.category}}</span>
-									{% endif %}
-								</div>
-								<div class="blogList-desc">
-									<h3>{{game.title}}</h3>
-									<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim...</div>
-								</div>
-							</a>
-						</div>
-					{% endif %}
+					<div class="col-sm-4">
+						<a href="{{site.baseurl}}{{post.name}}" class="blogList wow fadeInUp">
+							<div class="blogList-img">
+								{% if game.banner_image %}
+									<img src="{{ "assets/images/" | append: game.banner_preview | prepend: site.baseurl }}" alt="Blog Desc">
+								{% endif %}
+								{% if game.category %}
+								<span>{{game.category}}</span>
+								{% endif %}
+							</div>
+							<div class="blogList-desc">
+								<h3>{{game.title}}</h3>
+								<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim...</div>
+							</div>
+						</a>
+					</div>
 				{% endfor %}
 
 				<div class="col-sm-12">
-					<a class="blog-viewMore" href="{{site.baseurl}}blog.html">VIEW MORE</a>
+					<a class="blog-viewMore" href="{{site.baseurl}}games.html">VIEW MORE</a>
 				</div>
 
 			</div><!-- .row -->
@@ -499,24 +497,22 @@ layout: default
 			<div class="row">
 
 				{% for post in site.posts limit:3 %}
-					{% if post.path contains 'blog' %}
-						<div class="col-sm-4">
-							<a href="{{site.baseurl}}{{post.url}}" class="blogList wow fadeInUp">
-								<div class="blogList-img">
-									{% if post.banner_image %}
-										<img src="{{ "assets/images/" | append: post.banner_preview | prepend: site.baseurl }}" alt="Blog Desc">
-									{% endif %}
-									{% if post.category %}
-									<span>{{post.category}}</span>
-									{% endif %}
-								</div>
-								<div class="blogList-desc">
-									<h3>{{post.title}}</h3>
-									<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim...</div>
-								</div>
-							</a>
-						</div>
-					{% endif %}
+					<div class="col-sm-4">
+						<a href="{{site.baseurl}}{{post.url}}" class="blogList wow fadeInUp">
+							<div class="blogList-img">
+								{% if post.banner_image %}
+									<img src="{{ "assets/images/" | append: post.banner_preview | prepend: site.baseurl }}" alt="Blog Desc">
+								{% endif %}
+								{% if post.category %}
+								<span>{{post.category}}</span>
+								{% endif %}
+							</div>
+							<div class="blogList-desc">
+								<h3>{{post.title}}</h3>
+								<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim...</div>
+							</div>
+						</a>
+					</div>
 				{% endfor %}
 
 				<div class="col-sm-12">
