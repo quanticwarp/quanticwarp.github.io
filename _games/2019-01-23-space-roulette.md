@@ -6,7 +6,6 @@ date: 2019-01-23
 banner_preview: blog1.jpg
 banner_image: blog-banner.jpg
 category: PC
-tags: [PC, contest]
 ---
 
 You can find the game in here.
