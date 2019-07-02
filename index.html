@@ -453,20 +453,20 @@ layout: default
 
 			<div class="row">
 
-				{% for post in site.posts limit:3 %}
-					{% if post.path contains 'game' %}
+				{% for game in site.posts limit:3 %}
+					{% if game.path contains 'game' %}
 						<div class="col-sm-4">
 							<a href="{{site.baseurl}}{{post.url}}" class="blogList wow fadeInUp">
 								<div class="blogList-img">
-									{% if post.banner_image %}
-										<img src="{{ "assets/images/" | append: post.banner_preview | prepend: site.baseurl }}" alt="Blog Desc">
+									{% if game.banner_image %}
+										<img src="{{ "assets/images/" | append: game.banner_preview | prepend: site.baseurl }}" alt="Blog Desc">
 									{% endif %}
-									{% if post.category %}
-									<span>{{post.category}}</span>
+									{% if game.category %}
+									<span>{{game.category}}</span>
 									{% endif %}
 								</div>
 								<div class="blogList-desc">
-									<h3>{{post.title}}</h3>
+									<h3>{{game.title}}</h3>
 									<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim...</div>
 								</div>
 							</a>
