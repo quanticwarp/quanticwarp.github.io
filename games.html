@@ -28,7 +28,7 @@ layout: default
 
 				<ul id="filter">
 					<li class="active" data-group="all">All</li>
-					{% assign categories = site.posts | map: 'category' | uniq %}
+					{% assign categories = site.games | map: 'category' | uniq %}
 						{% for category in categories %}
 						<li data-group="{{ category }}">{{ category }}</li>
 					{% endfor %}
