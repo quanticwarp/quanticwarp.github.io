@@ -454,7 +454,7 @@ layout: default
 			<div class="row">
 
 				{% for post in site.posts limit:3 %}
-					{% if post.path contains 'games' %}
+					{% if post.path contains 'game' %}
 						<div class="col-sm-4">
 							<a href="{{site.baseurl}}{{post.url}}" class="blogList wow fadeInUp">
 								<div class="blogList-img">
@@ -499,7 +499,7 @@ layout: default
 			<div class="row">
 
 				{% for post in site.posts limit:3 %}
-					{% if post.path contains 'posts' %}
+					{% if post.path contains 'blog' %}
 						<div class="col-sm-4">
 							<a href="{{site.baseurl}}{{post.url}}" class="blogList wow fadeInUp">
 								<div class="blogList-img">
