@@ -28,7 +28,7 @@ layout: default
 
 				<ul id="filter">
 					<li class="active" data-group="all">All</li>
-					{% assign categories = site.games | map: 'category' | uniq %}
+					{% assign categories = site.posts.games | map: 'category' | uniq %}
 						{% for category in categories %}
 						<li data-group="{{ category }}">{{ category }}</li>
 					{% endfor %}
@@ -42,7 +42,7 @@ layout: default
 
 		<ul class="list-items-container blog-wrapper">
 
-			{% for game in site.games %}
+			{% for game in site.posts.games %}
 
 			<li class="list-item" data-groups="all {{ game.category }}">
 				<a href="{{site.baseurl}}{{game.url}}" class="blogList wow fadeInUp">
