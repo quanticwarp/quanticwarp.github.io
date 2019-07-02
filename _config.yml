@@ -13,13 +13,13 @@ description: "Xcent is a Responsive One Page Personal Template for creative peop
 
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: 
+baseurl: quanticwarp.github.io
 
 sass:
   sass_dir: _sass
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://beingeorge.com"
+url: "https://quanticwarp.github.io"
 
 # The shortname for your Disqus site to enable comments.
 disqus:
