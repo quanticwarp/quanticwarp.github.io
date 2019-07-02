@@ -31,3 +31,8 @@ author_name: "John Choque"
 twitter_username: "quanticwarp"
 facebook_username: "quanticwarp"
 instagram_username: "quanticwarp"
+
+collections:
+  games:
+    output: true
+    permalink: /games/:name

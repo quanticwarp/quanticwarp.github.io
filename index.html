@@ -453,7 +453,7 @@ layout: default
 
 			<div class="row">
 
-				{% for game in site.posts limit:3 %}
+				{% for game in site.games limit:3 %}
 					{% if game.path contains 'game' %}
 						<div class="col-sm-4">
 							<a href="{{site.baseurl}}{{post.url}}" class="blogList wow fadeInUp">
