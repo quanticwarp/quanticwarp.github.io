@@ -70,11 +70,11 @@ layout: default
 				<div class="module-line"></div>
 			</div>
 
-			<div class="row">
+			<div class="row list-items-container images-loaded">
 
 				{% for game in site.games limit:3 %}
 
-					<figure>
+					<figure class="list-item">
 						<img src="{{site.baseurl}}{{game.thumbnail}}" alt="p1">
 						<figcaption>
 							<a href="{{site.baseurl}}{{game.url}}"></a>
