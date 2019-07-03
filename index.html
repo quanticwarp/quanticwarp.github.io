@@ -229,20 +229,42 @@ layout: default
 
 		<div class="row">
 			<div class="col-sm-12">
-				<ul class="social-links">
-					{% if site.facebook_username %}
-					<li><a href="https://www.facebook.com/{{ site.facebook_username }}" class="wow fadeInUp"><i
-								class="fab fa-facebook-f"></i></a></li>
-					{% endif %}
-					{% if site.twitter_username %}
-					<li><a href="https://twitter.com/{{ site.twitter_username }}" class="wow fadeInUp"
-							data-wow-delay=".1s"><i class="fab fa-twitter"></i></a></li>
-					{% endif %}
-					{% if site.instagram_username %}
-					<li><a href="https://www.instagram.com/{{ site.instagram_username }}" class="wow fadeInUp"
-							data-wow-delay=".2s"><i class="fab fa-instagram"></i></a></li>
-					{% endif %}
-				</ul>
+				<div class="col-sm-4">
+					<a href="https://www.facebook.com/{{ site.facebook_username }}">
+						<div class="iconbox wow fadeInUp">
+							<div class="iconbox-icon">
+								<i class="fab fa-facebook"></i>
+							</div>
+							<div class="iconbox-text">
+								<h3 class="iconbox-title">Facebook</h3>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-sm-4">
+					<a href="https://www.twitter.com/{{ site.twitter_username }}">
+						<div class="iconbox wow fadeInUp">
+							<div class="iconbox-icon">
+								<i class="fab fa-twitter"></i>
+							</div>
+							<div class="iconbox-text">
+								<h3 class="iconbox-title">Twitter</h3>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-sm-4">
+					<a href="https://www.instagram.com/{{ site.instagram_username }}">
+						<div class="iconbox wow fadeInUp">
+							<div class="iconbox-icon">
+								<i class="fab fa-instagram"></i>
+							</div>
+							<div class="iconbox-text">
+								<h3 class="iconbox-title">Instagram</h3>
+							</div>
+						</div>
+					</a>
+				</div>
 			</div>
 		</div><!-- .row -->
 	</div><!-- .container -->
