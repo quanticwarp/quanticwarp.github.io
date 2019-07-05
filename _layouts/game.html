@@ -10,22 +10,23 @@ layout: default
 	<div class="container">
 		<div class="blog-detail-banner wow fadeIn">
 			{% if page.banner_image %}
-				<img src="/assets/images/blog-banner.jpg" alt="{% if page.banner_image_alt %}{{ page.banner_image_alt }}{% else %}{{ page.title }}{% endif %}">
+				<img src="/assets/images/{{page.banner_image}}.jpg" alt="{% if page.banner_image_alt %}{{ page.banner_image_alt }}{% else %}{{ page.title }}{% endif %}">
 			{% endif %}
 		</div>
 		<div class="blog-detail-contents wow fadeInUp">
 			<h2>{{page.title}}</h2>
 			<div class="blog-detail-about clearfix">
-				<a href="{{page.platform_url}}"></a>
-				<div class="media pull-left">
-					<div class="media-left">
-						<img src="{{page.platform_icon}}" class="media-object" alt="avatar">
+				<a href="{{page.platform_url}}">
+					<div class="media pull-left">
+						<div class="media-left">
+							<img src="/assets/images/{{page.platform_icon}}.jpg" class="media-object" alt="avatar">
+						</div>
+						<div class="media-body">
+							<h4 class="media-heading">{{page.platform_name}}</h4>
+							<p>{{ page.date | date: "%B %-d, %Y" }}</p>
+						</div>
 					</div>
-					<div class="media-body">
-						<h4 class="media-heading">{{page.platform_name}}</h4>
-						<p>{{ page.date | date: "%B %-d, %Y" }}</p>
-					</div>
-				</div>
+				</a>
 				<div class="blog-detail-category pull-right">
 					{{ page.category }}
 				</div>
@@ -37,7 +38,7 @@ layout: default
 				<div class="row">
 					<div class="col-md-12">
 						<div class="blog-detail-tags">
-							<ul> 
+							<ul>
 								{% if page.tags.size > 0 %}
 								Tags: {% for tag in page.tags %}
 								<li>
