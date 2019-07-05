@@ -16,12 +16,13 @@ layout: default
 		<div class="blog-detail-contents wow fadeInUp">
 			<h2>{{page.title}}</h2>
 			<div class="blog-detail-about clearfix">
+				<a href="{{page.platform_url}}"></a>
 				<div class="media pull-left">
 					<div class="media-left">
-						<img src="/assets/images/avatar.jpg" class="media-object" alt="avatar">
+						<img src="{{page.platform_icon}}" class="media-object" alt="avatar">
 					</div>
 					<div class="media-body">
-						<h4 class="media-heading">{{site.author_name}}</h4>
+						<h4 class="media-heading">{{page.platform_name}}</h4>
 						<p>{{ page.date | date: "%B %-d, %Y" }}</p>
 					</div>
 				</div>
