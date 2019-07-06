@@ -7,7 +7,7 @@ banner_preview: blog1.jpg
 banner_image: sr_banner__default.jpg
 category: Desktop
 platform_name: Gamejolt
-platform_icon: gamejolt
+platform_icon: gamejolt.png
 platform_url: https://gamejolt.com/games/spaceroulette/414295
 ---
 

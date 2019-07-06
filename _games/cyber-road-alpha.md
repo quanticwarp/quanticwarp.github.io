@@ -7,7 +7,7 @@ banner_preview: cra_banner__preview.jpg
 banner_image: cra_banner__default.jpg
 category: Mobile
 platform_name: Google Play
-platform_icon: google_play
+platform_icon: google_play.png
 platform_url: https://www.google.com
 ---
 
