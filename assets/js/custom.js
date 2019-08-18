@@ -126,5 +126,12 @@ if($('.youtube-bg').length == 1) {
 	$(".youtube-bg").mb_YTPlayer();
 }
 
+/* ---------------------------------------------- /*
+* Collapse menu when selecting an option
+/* ---------------------------------------------- */
+
+$('.navbar-collapse a').click(function(){
+    $(".navbar-collapse").collapse('hide');
+});
 
 })(jQuery);
