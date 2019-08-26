@@ -80,7 +80,9 @@ The game is based on:
 <br/>
 
 ## Icon
-
+<div class="col-xs-6 col-sm-3" markdown="1">
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/icono_1.png){: .heigh__auto}
+</div>
 
 ## About Quantic Warp
 Quantic Warp is an independent game studio based in Bolivia.
