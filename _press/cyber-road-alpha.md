@@ -49,25 +49,32 @@ The game is based on:
 - Futuristic appearance with neon colors on stage and user auto.
 
 ## Screenshots
-<div class="col-xs-6 col-sm-3" markdown="1">
-
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_1.png)
-
-</div>
-
-<div class="col-xs-6 col-sm-3" markdown="1">
+<div class="col-xs-6 col-sm-6" markdown="1">
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_1.png)
 </div>
-
+<div class="col-xs-6 col-sm-6" markdown="1">
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_2.png)
+</div>
+<div class="col-xs-6 col-sm-6" markdown="1">
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_3.png)
+</div>
+<div class="col-xs-6 col-sm-6" markdown="1">
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_4.png)
+</div>
 
 ## Main art
+<div class="col-xs-6 col-sm-3" markdown="1">
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_1.png)
+</div>
+<div class="col-xs-6 col-sm-3" markdown="1">
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_2.png)
+</div>
+<div class="col-xs-6 col-sm-3" markdown="1">
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_3.png)
+</div>
+<div class="col-xs-6 col-sm-3" markdown="1">
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_4.png)
+</div>
 
 ## Icon
 
