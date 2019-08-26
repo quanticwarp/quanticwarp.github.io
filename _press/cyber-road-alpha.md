@@ -18,6 +18,8 @@ Platforms: Android
 
 Availability: Digital download
 
+Publication date: Not yet published
+
 Languages: English, Spanish, French, Italian, German, Portuguese
 
 File size: ~50MB
@@ -75,6 +77,7 @@ The game is based on:
 <div class="col-xs-6 col-sm-3" markdown="1">
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_4.png){: .heigh__auto}
 </div>
+
 
 ## Icon
 
