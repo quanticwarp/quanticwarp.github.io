@@ -49,15 +49,20 @@ The game is based on:
 - Futuristic appearance with neon colors on stage and user auto.
 
 ## Screenshots
+<div>
 
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_1.png)
+
+</div>
+
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_2.png)
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_3.png)
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_4.png)
 
 ## Main art
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_1.png)
-
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_2.png)
-
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_3.png)
-
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_4.png)
 
 ## Icon
