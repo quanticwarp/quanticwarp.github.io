@@ -1,8 +1,8 @@
 ---
-layout: game
+layout: press
 title:  "Cyber Road Alpha"
 description: "Rush along futuristic highroads evading the police and discovering new cars."
-banner_image: cra_banner__default.jpg
+banner_image: cyber_road_alpha/banner.jpg
 category: Mobile
 ---
 
@@ -77,7 +77,7 @@ The game is based on:
 <div class="col-xs-6 col-sm-3" markdown="1">
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_4.png){: .heigh__auto}
 </div>
-
+<br/>
 
 ## Icon
 
