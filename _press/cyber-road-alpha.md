@@ -7,7 +7,7 @@ category: Mobile
 ---
 
 ## Trailer
-<iframe width="100%" height="400px" src="https://www.youtube.com/watch?v=sEOFX8jKDTw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![cyber_road_alpha_trailer](http://img.youtube.com/vi/sEOFX8jKDTw/0.jpg)](http://www.youtube.com/watch?v=sEOFX8jKDTw "cyber_road_alpha_trailer")
 
 ## Quick Facts
 Developer: Quantic Warp
@@ -49,10 +49,8 @@ The game is based on:
 - Futuristic appearance with neon colors on stage and user auto.
 
 ## Screenshots
-<div class="col-xs-6 col-sm-3">
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_1.png)
 
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_1.png){: .post_img}
-</div>
 <div class="col-xs-6 col-sm-3">
 
 ![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_2.png){: .post_img}
