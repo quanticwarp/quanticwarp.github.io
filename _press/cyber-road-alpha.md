@@ -6,15 +6,26 @@ banner_image: cra_banner__default.jpg
 category: Mobile
 ---
 
+## Trailer
+
+
 ## Quick Facts
 Developer: Quantic Warp
+
 Based in La Paz/Oruro, Bolivia
+
 Platforms: Android
+
 Availability: Digital download
+
 Languages: English, Spanish, French, Italian, German, Portuguese
+
 File size: ~50MB
+
 Contacts: quanticwarp@gmail.com
+
 Website: www.quanticwarp.com
+
 Social:
 - Facebook: @quanticwarp
 - Instagram: @quanticwarp
@@ -38,9 +49,11 @@ The game is based on:
 - Futuristic appearance with neon colors on stage and user auto.
 
 ## Screenshots
+<div class="col-xs-6 col-sm-3">
+![post_cover]({{site.baseurl}}/assets/images/press/cyber_road_alpha/coche_1.png){: .post_img}
+</div>
 
 ## Main art
-Autos del juego
 
 ## Icon
 
