@@ -49,32 +49,26 @@ The game is based on:
 - Futuristic appearance with neon colors on stage and user auto.
 
 ## Screenshots
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_1.png)
-
-<div class="col-xs-6 col-sm-3">
-
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_2.png){: .post_img}
-</div>
-<div class="col-xs-6 col-sm-3">
-
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_3.png){: .post_img}
-</div>
-<div class="col-xs-6 col-sm-3">
-
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_4.png){: .post_img}
-</div>
 
 
 ## Main art
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_1.png)
+
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_2.png)
+
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_3.png)
+
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_4.png)
 
 ## Icon
+
 
 ## About Quantic Warp
 Quantic Warp is an independent game studio based in Bolivia.
 
 ## Credits
-Anatoly Baltazar, Sound
-John Choque, Management
-Arturo Garcia, Design
-Miguel Martin, Programing, Design
-Sean Troche, Programing, Design
+- Anatoly Baltazar, Sound
+- John Choque, Management
+- Arturo Garcia, Design
+- Miguel Martin, Programing, Design
+- Sean Troche, Programing, Design
