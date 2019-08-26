@@ -7,7 +7,7 @@ category: Mobile
 ---
 
 ## Trailer
-
+<iframe width="100%" height="400px" src="https://www.youtube.com/watch?v=sEOFX8jKDTw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Quick Facts
 Developer: Quantic Warp
@@ -50,8 +50,22 @@ The game is based on:
 
 ## Screenshots
 <div class="col-xs-6 col-sm-3">
-![post_cover]({{site.baseurl}}/assets/images/press/cyber_road_alpha/coche_1.png){: .post_img}
+
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_1.png){: .post_img}
 </div>
+<div class="col-xs-6 col-sm-3">
+
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_2.png){: .post_img}
+</div>
+<div class="col-xs-6 col-sm-3">
+
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_3.png){: .post_img}
+</div>
+<div class="col-xs-6 col-sm-3">
+
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_4.png){: .post_img}
+</div>
+
 
 ## Main art
 
