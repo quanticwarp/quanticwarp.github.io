@@ -2,7 +2,7 @@
 layout: press
 title:  "Cyber Road Alpha"
 description: "Rush along futuristic highroads evading the police and discovering new cars."
-banner_image: cyber_road_alpha/banner.jpg
+banner_image: cyber_road_alpha/banner.png
 category: Mobile
 ---
 
