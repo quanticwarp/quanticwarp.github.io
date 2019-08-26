@@ -7,7 +7,7 @@ category: Mobile
 ---
 
 ## Trailer
-[![YouTube](http://img.youtube.com/vi/sEOFX8jKDTw/0.jpg)](http://www.youtube.com/watch?v=sEOFX8jKDTw "cyber_road_alpha_trailer")
+[![cyber_road_alpha_trailer](http://img.youtube.com/vi/sEOFX8jKDTw/0.jpg)](http://www.youtube.com/watch?v=sEOFX8jKDTw "YouTube Trailer")
 
 ## Quick Facts
 Developer: Quantic Warp

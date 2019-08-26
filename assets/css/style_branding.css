@@ -3,5 +3,5 @@
 }
 
 .heigh__auto {
-	height: auto;
+	height: auto !important;
 }
