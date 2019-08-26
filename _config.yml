@@ -36,3 +36,6 @@ collections:
   games:
     output: true
     permalink: /games/:name
+  presskits:
+    output: true
+    permalink: /press/:name
