@@ -7,7 +7,7 @@ category: Mobile
 ---
 
 ## Trailer
-[![cyber_road_alpha_trailer](http://img.youtube.com/vi/sEOFX8jKDTw/0.jpg)](http://www.youtube.com/watch?v=sEOFX8jKDTw "cyber_road_alpha_trailer")
+[![YouTube](http://img.youtube.com/vi/sEOFX8jKDTw/0.jpg)](http://www.youtube.com/watch?v=sEOFX8jKDTw "cyber_road_alpha_trailer")
 
 ## Quick Facts
 Developer: Quantic Warp
@@ -50,30 +50,30 @@ The game is based on:
 
 ## Screenshots
 <div class="col-xs-6 col-sm-6" markdown="1">
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_1.png)
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_1.png){: .heigh__auto}
 </div>
 <div class="col-xs-6 col-sm-6" markdown="1">
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_2.png)
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_2.png){: .heigh__auto}
 </div>
 <div class="col-xs-6 col-sm-6" markdown="1">
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_3.png)
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_3.png){: .heigh__auto}
 </div>
 <div class="col-xs-6 col-sm-6" markdown="1">
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_4.png)
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/screen_4.png){: .heigh__auto}
 </div>
 
 ## Main art
 <div class="col-xs-6 col-sm-3" markdown="1">
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_1.png)
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_1.png){: .heigh__auto}
 </div>
 <div class="col-xs-6 col-sm-3" markdown="1">
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_2.png)
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_2.png){: .heigh__auto}
 </div>
 <div class="col-xs-6 col-sm-3" markdown="1">
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_3.png)
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_3.png){: .heigh__auto}
 </div>
 <div class="col-xs-6 col-sm-3" markdown="1">
-![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_4.png)
+![post_cover]({{site.url}}/assets/images/press/cyber_road_alpha/coche_4.png){: .heigh__auto}
 </div>
 
 ## Icon
