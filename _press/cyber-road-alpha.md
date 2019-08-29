@@ -18,7 +18,7 @@ Platforms: Android
 
 Availability: Digital download
 
-Publication date: Not yet published
+Publication date: NOT YET PUBLISHED
 
 Languages: English, Spanish, French, Italian, German, Portuguese
 
