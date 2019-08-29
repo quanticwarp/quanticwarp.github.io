@@ -28,6 +28,10 @@ Contacts: quanticwarp@gmail.com
 
 Website: www.quanticwarp.com
 
+Price:
+- Free: Buy cars (each 0.49 cents)/adds, once each 5 games.
+- Pro: All cars unlocked/all scenarios unlocked.
+
 Social:
 - Facebook: @quanticwarp
 - Instagram: @quanticwarp
